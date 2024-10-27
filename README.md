@@ -5,7 +5,7 @@
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/Calculater.png" width="300" />
 </p>
 
-Welcome to the **Calculator App**! This project was developed as part of the **Meta Front-End Developer Professional Certificate** program. The purpose of this graded assessment was to solidify my understanding of key `React` concepts and to create a functional application that performs basic mathematical operations.
+Welcome to the **Calculator App**! This project was developed as part of the **Meta Front-End Developer Professional Certificate** program. The purpose of this graded assessment was to solidify my understanding of key `React` concepts and to create a functional application that performs basic mathematical operations. 
 
 ## 📖Table of Contents
 
@@ -20,7 +20,7 @@ Welcome to the **Calculator App**! This project was developed as part of the **M
 
 ## Introduction
 
-The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`. I've added a "☀️Light/🌙Dark" Mode  feature to the original calculater-app.
+The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`. I've added a "☀️Light/🌙Dark" Mode  feature to the original calculater-app. See code to embed to new feature, copy and paste to `App.js` and `App.css`.
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(4).png" width="300" />
