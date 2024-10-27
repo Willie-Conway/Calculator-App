@@ -20,7 +20,7 @@ Welcome to the **Calculator App**! This project was developed as part of the **M
 
 ## Introduction
 
-The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`. I've added a "☀️Light/🌙Dark" Mode  feature to the original calculater-app. See code to embed to new feature, copy and paste to `App.js` and `App.css`.
+The **Calculator App** is a simple web application built using `React`. It allows users to perform ➕addition, ➖subtraction, ✖️multiplication, and ➗division on numbers entered via a single input field. This project helped me apply my knowledge of ❄️`React components`, 🪝`hooks`, and 🚦`event handling`. I've added a **☀️Light/🌙Dark Mode**  feature to the original `calculater-app`. See code to embed to new feature.
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(4).png" width="300" />
@@ -37,10 +37,10 @@ The **Calculator App** is a simple web application built using `React`. It allow
 
 ## ⚙️Tech Stack 
 
-- **`React`:** The main library used for building the user interface. React components were created to manage state and handle user interactions.
-- **`JavaScript`:** The programming language used for writing the app's logic, including mathematical operations and state management.
-- **`HTML`:** The markup language used to structure the application’s UI components.
-- **`CSS`:** Used for styling the application, providing a clean and user-friendly interface.
+- ❄️**`React`:** The main library used for building the user interface. React components were created to manage state and handle user interactions.
+- 📜**`JavaScript`:** The programming language used for writing the app's logic, including mathematical operations and state management.
+- 📃**`HTML`:** The markup language used to structure the application’s UI components.
+- 🎨**`CSS`:** Used for styling the application, providing a clean and user-friendly interface.
 
 ### How Technologies Were Used
 
