@@ -44,7 +44,7 @@ To run the `Calculator App` locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/Willie-Conway/calculator-app.git
    cd calc-app
    ```
 2. **Install dependencies:**
