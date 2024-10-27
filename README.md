@@ -156,7 +156,7 @@ button:nth-last-child(2), button:nth-last-child(1) {
 
 ```
 
-## Dark Mode Feature
+## 🌙Dark Mode Feature
 ```javascript
 import { useState, useRef, useEffect } from "react"; 
 import "./App.css";
@@ -333,7 +333,7 @@ html, body {
 
 ![Calculater App](https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(3).png)
 
-# Light Mode Feature
+# ☀️Light Mode Feature
 
 ## Screenshots 📸
 ![Calculater App](https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(4).png)
