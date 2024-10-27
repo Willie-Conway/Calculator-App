@@ -1,0 +1,82 @@
+/* App.css */
+
+html, body {
+    height: 100%; /* Ensure the body takes up full height */
+    margin: 0; /* Remove default margin */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .App {
+    padding: 20px;
+    min-height: 100vh; /* Ensure the App container takes at least full viewport height */
+  }
+  
+  /* Light Mode Styles */
+  body.light-mode {
+    background-color: white; /* Light background */
+    color: black; /* Dark text */
+  }
+  
+  /* Dark Mode Styles */
+  body.dark-mode {
+    background-color: black; /* Dark background */
+    color: white; /* Light text */
+  }
+  
+  input,
+  button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  input {
+    display: block;
+    margin-bottom: 20px;
+    background-color: white; /* Light input background for light mode */
+    color: black; /* Dark text for input */
+    border: 1px solid gray; /* Border for input */
+  }
+  
+  /* Dark mode styles for input */
+  body.dark-mode input {
+    background-color: #333; /* Dark background for input in dark mode */
+    color: white; /* Light text for input in dark mode */
+    border: 1px solid #555; /* Darker border for contrast */
+  }
+  
+  button {
+    border: 1px solid gray;
+    margin-right: 5px;
+  }
+  
+  /* Styles for reset result button */
+  button.reset {
+    background: tomato; /* Tomato color for reset button */
+    color: white; /* White text */
+  }
+  
+  /* Styles for light mode toggle button */
+  button.light-mode {
+    background: tomato; /* Tomato color for light mode button */
+    color: white; /* White text */
+  }
+  
+  /* Dark mode styles for reset and toggle buttons */
+  body.dark-mode button.reset,
+  body.dark-mode button.light-mode {
+    background: tomato; /* Keep tomato color in dark mode */
+    color: white; /* Keep white text in dark mode */
+  }
+  
+  /* Dark mode styles for other buttons */
+  body.dark-mode button {
+    background: #444; /* Dark button background for dark mode */
+    color: white; /* Light text for buttons in dark mode */
+  }
+  
+  /* Optional: Hover effects for buttons */
+  button:hover {
+    opacity: 0.8; /* Slightly transparent on hover */
+  }
+  
