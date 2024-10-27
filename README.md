@@ -20,7 +20,7 @@ Welcome to the **Calculator App**! This project was developed as part of the **M
 
 ## Introduction
 
-The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`.
+The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`. I've added a "☀️Light/🌙Dark" Mode  feature to the original calculater-app.
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(4).png" width="300" />
