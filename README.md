@@ -37,6 +37,7 @@ The **Calculator App** is a simple web application built using `React`. It allow
 - **`JavaScript`:** Core mathematical logic is implemented using simple functions that modify the state based on user input and selected operations.
 - **`HTML` & `CSS`:** The layout is constructed using standard HTML elements, while `CSS` is applied to ensure a visually appealing and accessible user interface.
 
+
 ## Getting Started 🚀
 
 To run the `Calculator App` locally, follow these steps:
@@ -55,6 +56,7 @@ To run the `Calculator App` locally, follow these steps:
    npm start
    ```
 4. **Open your browser and navigate to `http://localhost:3000`.**
+
 
 ## Code Overview 📝
 **Here is the main component of the application, `App.js`:**
