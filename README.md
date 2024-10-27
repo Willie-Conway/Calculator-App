@@ -152,6 +152,6 @@ button:nth-last-child(2), button:nth-last-child(1) {
 ## Screenshots 📸
 
 ## License 📄
-This project is licensed under the MIT License. Feel free to modify and use the code for your own projects!
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code for your own projects!
 
 🙏Thank you for checking out my 📱Calculator App! If you have any questions or 📥feedback, feel free to reach out. 😊
