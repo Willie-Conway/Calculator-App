@@ -24,7 +24,7 @@ The **Calculator App** is a simple web application built using `React`. It allow
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(1).png" width="300" />
+    <img src="" width="300" />
 </p>
 
 
