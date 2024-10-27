@@ -151,6 +151,8 @@ button:nth-last-child(2), button:nth-last-child(1) {
 ```
 ## Screenshots 📸
 
+![Calculater App](https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_.png)
+
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code for your own projects!
 
