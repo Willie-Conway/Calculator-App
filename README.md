@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://tinypic.host/images/2024/10/27/meta-Front-End-Developer.png" width="300" />
-    <img src="" width="300" />
+    <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/Calculater.png" width="300" />
 </p>
 
 Welcome to the **Calculator App**! This project was developed as part of the **Meta Front-End Developer Professional Certificate** program. The purpose of this graded assessment was to solidify my understanding of key `React` concepts and to create a functional application that performs basic mathematical operations.
