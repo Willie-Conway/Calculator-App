@@ -1,4 +1,4 @@
-# Calculator App 📱
+# Calculator App 
 
 <p float="left">
     <img src="https://tinypic.host/images/2024/10/27/meta-Front-End-Developer.png" width="300" />
