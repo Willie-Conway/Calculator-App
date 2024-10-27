@@ -22,6 +22,12 @@ Welcome to the **Calculator App**! This project was developed as part of the **M
 
 The **Calculator App** is a simple web application built using `React`. It allows users to perform addition, subtraction, multiplication, and division on numbers entered via a single input field. This project helped me apply my knowledge of `React components`, `hooks`, and `event handling`.
 
+<p float="left">
+    <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(1).png" width="300" />
+</p>
+
+
 ## Features ✨
 
 - **`Basic Operations`:** Perform addition, subtraction, multiplication, and division.
