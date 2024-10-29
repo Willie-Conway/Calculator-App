@@ -37,10 +37,10 @@ The **Calculator App** is a simple web application built using `React`. It allow
 
 ## ⚙️Tech Stack 
 
-- ❄️**`React`:** The main library used for building the user interface. React components were created to manage state and handle user interactions.
-- 📜**`JavaScript`:** The programming language used for writing the app's logic, including mathematical operations and state management.
-- 📃**`HTML`:** The markup language used to structure the application’s UI components.
-- 🎨**`CSS`:** Used for styling the application, providing a clean and user-friendly interface.
+- **❄️`React`: The main library used for building the user interface. React components were created to manage state and handle user interactions.
+- **📜`JavaScript`:** The programming language used for writing the app's logic, including mathematical operations and state management.
+- **📃`HTML`:** The markup language used to structure the application’s UI components.
+- **🎨`CSS`:** Used for styling the application, providing a clean and user-friendly interface.
 
 ### How Technologies Were Used
 
