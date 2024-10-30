@@ -38,3 +38,5 @@
 
 ## Feedback
 - **User Feedback System**: Built-in feature to gather user feedback for continuous improvement.
+
+- **Email**: hire.willie.conway@gmail.com
