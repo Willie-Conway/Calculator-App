@@ -1,7 +1,7 @@
 # Calculator App 
 
 <p float="left">
-    <img src="https://tinypic.host/images/2024/10/27/meta-Front-End-Developer.png" width="300" />
+    <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="300" />
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/Calculater.png" width="300" />
 </p>
 
