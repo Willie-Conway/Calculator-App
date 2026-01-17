@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/680x680/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/Calculater.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Calculator-App/blob/411076f019f422e8791eadd1ea991d9ddee2d08a/Images/Calculator.jpg" width="300" />
 </p>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
