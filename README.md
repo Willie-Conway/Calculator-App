@@ -18,12 +18,17 @@ This **Interactive Calculator Application** was developed as part of the **Meta 
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(4).png" width="300" />
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/localhost_3000_%20(3).png" width="300" />
     <img src="https://github.com/Willie-Conway/Calculator-App/blob/main/Images/Calculator_Demo.gif" width="300" />
+    <img src="https://github.com/user-attachments/assets/eb850d80-c4f1-4f52-9997-ed5dc7163f86" width="300" />
 </p>
 
 ## 🚀 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://willie-conway.github.io/Calculator-App/) 
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+
+https://github.com/user-attachments/assets/5dfd1779-16a2-4414-954f-478c48babcc8
+
+
 
 ## 📁 Project Structure
 
